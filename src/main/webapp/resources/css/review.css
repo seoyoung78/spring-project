@@ -1,0 +1,83 @@
+/* body{
+    header_footer.css 의 body 부분 덮어쓰기
+    padding-left: 0;
+    padding-right: 0;
+}
+
+한 줄 평
+
+.container-review{
+    position: absolute;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    display: table-cell;
+    align-content: center;
+    vertical-align: middle;
+}
+
+
+.card-header{
+    height: 40px;
+    align-self: center;
+    color: #595959;
+}
+
+
+.card-review{
+    height: 300px;
+    width: 500px;
+    background-color: #d9d9d9;
+}
+
+
+#review-write { 
+    width: 300px;
+	height: 100px;
+}
+
+#review-submit-btn{
+	float: right;
+    color: white;
+    background-color: #d15851;
+    width: 100px;
+}
+
+#review-submit-btn:hover{
+    color: black;
+    background-color: white;
+} */
+
+.review-content {
+	background-color:#f3f3f3;
+	margin-bottom:70px;
+}
+
+.review-submit-btn{
+	float: right;
+    color: white;
+    background-color: #d15851;
+    width: 100px;
+    margin:15px;
+}
+
+/* 페이징 처리 */
+.page-item {
+	/* background-color:#f3f3f3; */ 
+	border-color:#f3f3f3; 
+	background-color:white; 
+	color: #d15851;
+	font-size:medium;
+}
+
+.page-item:hover {
+	color: #39613a;
+}
+
+.page-now {
+	/* border-color:#f3f3f3;  */
+	background-color: #d15851; 
+	color: white;
+	font-size:medium;
+}

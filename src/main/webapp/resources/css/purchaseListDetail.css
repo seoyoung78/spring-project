@@ -1,0 +1,61 @@
+
+
+.exchange-box {
+    background-color: white;
+    padding: 10px;
+    color: #595959;
+}
+
+#detail-box {
+		border-right:0.5px solid #d9d9d9;
+		margin-bottom:20px;
+}
+
+.exchange-content {
+    width:295px;
+}
+
+#changeImg {
+    margin: 20px;
+    width:200px; 
+    height:150px; 
+}
+
+#select-refund-reason-title{
+    margin: 20px; 
+    font-weight: bold;
+    color: #595959;
+    margin-left: 100px;
+    
+}
+
+#select-reason{
+    padding: 30px;
+    padding-left: 100px;
+    display:inline-block;
+    align-self: center;
+}
+
+.product-details{
+    margin-left: 20px;
+    font-size: smaller;
+    display:flex;
+    align-items: center;
+    float:left;
+    font:smaller
+}
+
+#exchange-refund-notice{
+    color: #d15851; 
+    font-size: smaller; 
+    margin: 30px;
+    text-align: center;
+}
+
+
+.review-btn{
+    background-color: #d15851; 
+    color: #f3f3f3; 
+    float: right; 
+    margin-right:45px;
+}

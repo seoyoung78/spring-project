@@ -1,0 +1,74 @@
+
+
+.exchangeBox {
+    background-color: #f3f3f3;
+    padding: 10px;
+    color: #595959;
+}
+
+.exchangeContent {
+		display: table; 
+    margin-left: auto; 
+    margin-right: auto; 
+}
+
+#changeImg {
+    margin: 20px;
+    width:200px; 
+    height:150px; 
+}
+
+.img-sideline{
+    border:2px solid white;
+    margin: 10px;
+    padding: 10px;
+    width:fit-content;
+    height:fit-content;
+    float:right;
+}
+
+
+#select-refund-reason-title{
+    margin: 20px; 
+    font-weight: bold;
+    color: #595959;    
+}
+
+#select-reason{
+    padding: 30px;
+    padding-left: 80px;
+    display:inline-block;
+    align-self: center;
+}
+
+.refund-product-details{
+    margin: 20px;
+    font-size: smaller;
+    display:flex;
+    align-items: center;
+    float:left;
+    font:smaller
+}
+
+
+
+#exchange-refund-notice{
+    color: #d15851; 
+    font-size: smaller; 
+    margin: 30px;
+    text-align: center;
+}
+
+
+#btnRefund{
+    background-color: #d15851; 
+    color: #f3f3f3; 
+    padding: 10px;
+    border: 2px solid white;
+}
+
+#refund-btn-div{
+    display: table; 
+    margin-left: auto; 
+    margin-right: auto; 
+}
